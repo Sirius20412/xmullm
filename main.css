@@ -1,6 +1,6 @@
 :root{
---dark-blue: #1d1a1a;
---light-bg: #0a0909;
+--dark-blue: #4c35cf;
+--light-bg: #436ecc;
 }
 html {
 box-sizing: border-box;
@@ -23,7 +23,7 @@ margin: 0 auto;
 }
 
 header, footer {
-background-color: #5c5555;
+background-color: #867c7c;
 padding: 40px;
 text-align: center;
 color: var(--dark-blue);
@@ -68,7 +68,7 @@ border-radius: 3px;
 }
 
 footer {
-color: #272626;
+color: #c2bbbb;
 font-size: 2.0rem;
 padding: 30px;
 }
